@@ -1,0 +1,3 @@
+'atom-text-editor':
+  'f9': 'atom-min-format:terminal'
+  'f1': 'atom-min-format:gofmt'

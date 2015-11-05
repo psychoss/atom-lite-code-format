@@ -1,0 +1,16 @@
+{
+  "name": "atom-format",
+  "main": "index.js",
+  "version": "2.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/atom/atom-format",
+  "license": "MIT",
+  "activationCommands": {
+    "atom-workspace": [
+      "atom-min-format:terminal",
+      "atom-min-format:gofmt"
+    ]
+  },
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"}
+}
