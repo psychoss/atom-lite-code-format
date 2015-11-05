@@ -22,3 +22,5 @@ int main(void) {
     printf("No %d: %s\n", res->nr, res->value);
   }
 }
+
+ // cc /home/psycho/github/atom-format/test.c -o /home/psycho/github/atom-format/test && /home/psycho/github/atom-format/test
