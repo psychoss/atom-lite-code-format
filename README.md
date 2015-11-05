@@ -11,4 +11,4 @@ then just use the result to replace the text.but, more than that, it will add so
 i have boring by the heavily packages that make the wonderful ide so slowly.
 
 simple if suite what you want,isnt is prefect,
-actually, this is also a example to help you make yourself atom extion.
+actually, this is also a example to help you make yourself atom extension.
