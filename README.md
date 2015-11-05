@@ -1,4 +1,4 @@
-# A simple atom extension for format the source file of go or c language source file.
+# A simple atom extension for format the source file of go or c language.
 
 the lite reformat tool is deeply depend on "gofmt" and "clang-format"。
 
